@@ -7,11 +7,11 @@ function setup() {
 }
 
 function draw() {
-  background(255)
+  background(0)
   translate(width/2,height/2)
 
   stroke (166,232,166); 
-	fill(255);
+	fill(0);
 	ellipse(0,0,450,450);
 	
  
